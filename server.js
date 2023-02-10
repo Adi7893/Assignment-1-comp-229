@@ -1,10 +1,13 @@
 #!/usr/bin/env node
-
+//<!--Name: Adityasinh Makwana-->
+//<!--Sudent id: 301175966-->
+//<!--COMP229_002-->
+//<!--Date 09 Feb 2023-->
 /**
  * Module dependencies.
  */
 
-var app = require('./app');
+var app = require('./config/app');
 var debug = require('debug')('assignment-1:server');
 var http = require('http');
 
